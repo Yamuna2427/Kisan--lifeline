@@ -1,0 +1,22 @@
+[
+  {
+    "id": "DEMO-001",
+    "approved": true,
+    "question_te": "డేటాబేస్ లో సమాధానం లేకపోతే",
+    "aliases_te": [
+      "సమాధానం దొరకకపోతే"
+    ],
+    "answer_te": "మా ఆమోదించిన డేటాబేస్‌లో సమాధానం లేకపోతే మేము ఊహించి సలహా ఇవ్వము. వ్యవసాయ నిపుణుడిని సంప్రదించండి.",
+    "source": "Project safety policy; not crop-treatment advice"
+  },
+  {
+    "id": "DEMO-002",
+    "approved": true,
+    "question_te": "వ్యవసాయ నిపుణుడిని ఎలా సంప్రదించాలి",
+    "aliases_te": [
+      "నిపుణుడిని సంప్రదించాలి"
+    ],
+    "answer_te": "మీ మండల వ్యవసాయ అధికారిని లేదా సమీప కృషి విజ్ఞాన కేంద్రాన్ని సంప్రదించండి. వారి ప్రస్తుత సంప్రదింపు వివరాలను ధృవీకరించండి.",
+    "source": "Project demo policy; local contact details need verification"
+  }
+]
